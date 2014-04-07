@@ -1,0 +1,29 @@
+// Many of these come from http://wesbos.github.io/Sublime-Text-Power-User-Talk
+// I recommend reading through it.
+{
+  "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+  "detect_indentation": true,
+  "ensure_newline_at_eof_on_save": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "highlight_line": true,
+  "caret_extra_bottom": 2,
+  "caret_extra_top": 2,
+  "caret_extra_width": 4,
+  "caret_style": "solid",
+  "wide_caret": true,
+  "match_brackets": true,
+  "match_brackets_angle": true,
+  "match_brackets_braces": true,
+  "match_brackets_content": true,
+  "match_brackets_square": true,
+  "highlight_modified_tabs": true,
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
+  "indent_guide_options": ["draw_normal", "draw_active"]
+}
+
