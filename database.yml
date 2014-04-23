@@ -1,7 +1,7 @@
-development:
+development: &default
   adapter: postgresql
   encoding: utf8
-  database: your_rails_project
+  database: your_rails_project_development
   pool: 5
   username: <username>
   password: <password>
@@ -9,11 +9,5 @@ development:
   port: 5432
 
 test:
-  adapter: postgresql
-  encoding: utf8
-  database: your_rails_project
-  pool: 5
-  username: <username>
-  password: <password>
-  host: localhost
-  port: 5432
+  <<: *default
+  database: your_rails_project_test
