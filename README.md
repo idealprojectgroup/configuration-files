@@ -17,3 +17,5 @@ Contributions are welcome. Submit a pull request.
 ## Credits
 
 ![](http://static1.squarespace.com/static/51e1bedce4b0c81d3a147448/t/538a6323e4b00fa9a362025c/1401590370077/?format=150w)
+
+[Website](http://idealprojectgroup.com) | [GitHub Organization](https://github.com/idealprojectgroup)
