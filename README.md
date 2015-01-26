@@ -1,4 +1,4 @@
-Rails Configuration Files
+Configuration Files
 =========================
 
 This repository was started so we could reference common configuration files we find ourselves coming back to.
@@ -9,3 +9,7 @@ This repository was started so we could reference common configuration files we 
 - RSpec with database_cleaner
 - Sublime Text with settings from [Sublime Text Power User Talk](http://wesbos.github.io/Sublime-Text-Power-User-Talk)
 - Zeus, Credit: [Thoughtbot](http://robots.thoughtbot.com/improving-rails-boot-time-with-zeus)
+
+## Contributing
+
+Contributions are welcome. Submit a pull request.
